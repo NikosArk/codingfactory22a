@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DayMountYearApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gr/aueb/cf/ch2/DayMountYearApp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
